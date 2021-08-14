@@ -1,5 +1,5 @@
 
-#   As a Summary
+#   Summary
 
 This program was made for a Lab homework assignment to make a program 
 that can read given barcodes. Since I used made the program in Python, 
